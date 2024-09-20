@@ -6,7 +6,7 @@ D3NIGMA redefines social digital interaction by blending interactive gameplay, d
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Technical Architecture](#technical-architecture)
+- [Technical Architecture](#technical-architecture-and-workflow)
 - [Interoperability with Chainlink CCIP](#interoperability-with-chainlink-ccip)
 - [Dynamic Content Creation with Chainlink Functions](#dynamic-content-creation-with-chainlink-functions)
 - [Powering D3NIGMA with Avalanche](powering-d3nigma-with-avalanche)
@@ -25,6 +25,10 @@ D3NIGMA draws inspiration from the Zealy model, promoting active user participat
 - **Smart Contracts**: Developed on the blockchain, facilitating transactions, NFT interactions, and leveraging Chainlink CCIP for cross-chain functionality.
 
 - **Front-End Development**: Crafted with Figma and Vite, intuitive UI is designed for seamless user experiences, connecting with the blockchain backend through React.
+
+## Technical Architecture and Workflow:
+
+![original (22)](https://github.com/user-attachments/assets/847152f6-af13-400d-8e7d-99723264c697)
 
 ### Interoperability with Chainlink CCIP:
 D3NIGMA's use of Chainlink CCIP marks a significant leap towards achieving unparalleled interoperability within the blockchain space. This advanced protocol enables secure, cross-chain messaging that allows D3NIGMA to interact with various blockchains, thus broadening the scope of NFT utility and accessibility. Users can now bring in NFTs from different chains, participate in cross-chain quests, and even transfer their achievements and digital assets across ecosystems without friction. This not only enhances user engagement but also fosters a more inclusive digital environment where boundaries between different blockchains blur, creating a unified, expansive digital realm.
